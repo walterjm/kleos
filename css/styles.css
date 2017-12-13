@@ -1,0 +1,24 @@
+.centered {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    margin-top: 50px;
+}
+
+.container{
+  color: gray;
+}
+
+body{
+  font-family: 'Dosis', sans-serif;
+}
+
+.statement{
+  margin-top: 100px;
+}
+
+.icons{
+  display: inline-block;
+}
