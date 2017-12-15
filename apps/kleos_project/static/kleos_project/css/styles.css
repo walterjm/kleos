@@ -1,0 +1,41 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  font-family: 'Dosis', sans-serif;
+}
+
+h4{
+  color: white;
+  text-align: center;
+  font-size: 2em;
+}
+
+.centerpiece{
+  background: url("../images/stars.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 20em;
+}
+
+.astronaut{
+  height: 10em;
+  width: 10em;
+  display: block;
+  margin: 0 auto;
+}
+
+.statement{
+  margin-top: 50px;
+}
+
+.icons{
+  width: 100px;
+  display: block;
+}
+
+#services{
+  margin-top: 50px;
+}
