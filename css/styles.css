@@ -16,9 +16,14 @@ body{
 }
 
 .statement{
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .icons{
-  display: inline-block;
+  width: 100px;
+  display: block;
+}
+
+#services{
+  margin-top: 50px;
 }
